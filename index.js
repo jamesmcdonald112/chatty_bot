@@ -62,7 +62,7 @@ function test() {
 }
 
 function end() {
-	console.log("Completed, have a nice day!");
+	console.log("Congratulations, have a nice day!");
 }
 
 greet('Aid', '2024');
